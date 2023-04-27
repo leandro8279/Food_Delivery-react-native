@@ -1,11 +1,8 @@
 # Food_Delivery-react-native
 
-<center>Food Delivery App
+Food Delivery App
 REACT NATIVE
-( 25 screens )</center>
-![ScreenShot](https://storage.googleapis.com/byprogrammers/image/food-delivery-app-1.png)
-
-
+( 25 screens )
 
 ![ScreenShot](https://storage.googleapis.com/byprogrammers/image/food-delivery-app-1.png)
 
@@ -51,7 +48,6 @@ REACT NATIVE
 ![ScreenShot](https://github.com/leandro8279/Food_Delivery-react-native/blob/main/Screenshot/food-delivery-app-1_93.png)<br/>
 <b>Map View</b>
 ![ScreenShot](https://github.com/leandro8279/Food_Delivery-react-native/blob/main/Screenshot/food-delivery-app-1_94.png)<br/>
-
 
 
 
